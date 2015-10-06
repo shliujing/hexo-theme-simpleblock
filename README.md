@@ -1,4 +1,4 @@
-# Hexo Theme: Simple Block 1
+# Hexo Theme: Simple Block 11
 这是一个基于线框设计的简单的 Hexo 主题，拆分自 [精子的博客](https://jysperm.me)。
 支持使用 Jade 或 Markdown 来向边栏添加小部件，或向正文前添加横幅。
 
